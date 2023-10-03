@@ -38,6 +38,6 @@ Using vectors, strings, and hash maps
 
 Learning how to use `panic!`, returning `Result<T, E>` values, and exploring when to recover from an error or stop an execution
 
-#### Chapter 10: [Generic Types, Traits, and Lifetimes]()
+#### Chapter 10: [Generic Types, Traits, and Lifetimes](https://github.com/shai-github/rust/tree/main/generic)
 
 Using generic types in struct and enum definitions, using traits to define behavior in a generic way, and discussing lifetimes to give the compiler enough information about borrowed values to ensure references will be valid
