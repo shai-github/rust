@@ -33,3 +33,7 @@ Undestanding and managing scope with packages, crates, modules, paths, and the `
 #### Chapter 8: [Common Collections](https://github.com/shai-github/rust/tree/main/collections)
 
 Using vectors, strings, and hash maps
+
+#### Chapter 9: [Error Handling]()
+
+Learning how to use `panic!`, returning `Result<T, E>` values, and exploring when to recover from an error or stop an execution
