@@ -34,6 +34,6 @@ Undestanding and managing scope with packages, crates, modules, paths, and the `
 
 Using vectors, strings, and hash maps
 
-#### Chapter 9: [Error Handling]()
+#### Chapter 9: [Error Handling](https://github.com/shai-github/rust/tree/main/errors)
 
 Learning how to use `panic!`, returning `Result<T, E>` values, and exploring when to recover from an error or stop an execution
