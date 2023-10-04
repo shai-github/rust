@@ -41,3 +41,7 @@ Learning how to use `panic!`, returning `Result<T, E>` values, and exploring whe
 #### Chapter 10: [Generic Types, Traits, and Lifetimes](https://github.com/shai-github/rust/tree/main/generic)
 
 Using generic types in struct and enum definitions, using traits to define behavior in a generic way, and discussing lifetimes to give the compiler enough information about borrowed values to ensure references will be valid
+
+#### Chapter 11: [Writing Automated Tests](https://github.com/shai-github/rust/tree/main/testing)
+
+Discussing mechanics of testing facilities, examining default behaviors, and organizing unit and integration tests
