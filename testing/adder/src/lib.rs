@@ -1,3 +1,15 @@
+/*
+You can run tests with cargo test command.
+You can also use cargo test -- --test-threads=1 but test will run slower. May be useful in cases where
+you want to run tests in serial fashion. 
+
+Can use command cargo test -- --show-output
+This will show print statement for both passing and failing cases
+
+To run only one test, you can use the command cargo test <test_name>.
+To run only tests that match a particular name, you can use the command cargo test <part_of_test_name>.
+ */
+
 pub fn add(left: usize, right: usize) -> usize {
     left + right
 }
