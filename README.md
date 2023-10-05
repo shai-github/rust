@@ -45,3 +45,7 @@ Using generic types in struct and enum definitions, using traits to define behav
 #### Chapter 11: [Writing Automated Tests](https://github.com/shai-github/rust/tree/main/testing)
 
 Discussing mechanics of testing facilities, examining default behaviors, and organizing unit and integration tests
+
+#### Chapter 12: [An I/O Project: Building a Command Line Program](https://github.com/shai-github/cli)
+
+Reviewing skills learned in Chapters 1-11 by building a command line tool 
