@@ -49,3 +49,7 @@ Discussing mechanics of testing facilities, examining default behaviors, and org
 #### Chapter 12: [An I/O Project: Building a Command Line Program](https://github.com/shai-github/cli)
 
 Reviewing skills learned in Chapters 1-11 by building a command line tool 
+
+#### Chapter 13: [Functional Language Features: Iterators and Closures](https://github.com/shai-github/rust/tree/main/functional)
+
+Exploring closures and iterators to understand functional programming in Rust
